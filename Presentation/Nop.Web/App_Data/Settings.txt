@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=SQL6005.site4now.net;Initial Catalog=DB_A3E023_NopCommerceFrees;Integrated Security=False;Persist Security Info=False;User ID=DB_A3E023_NopCommerceFrees_admin;Password=nopcommerce@1
